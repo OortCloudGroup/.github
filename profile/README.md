@@ -20,19 +20,19 @@ VLStream (Video Link Stream) is a visual end-to-end application system. The func
 
 2）VLStream IPCamera IPC Management Interface
 
-3) VLStream IPC firmware (adapted to various main control chips)
+3）VLStream IPC firmware (adapted to various main control chips)
 
-4) VLStream NVR 
+4）VLStream NVR 
 
-5) VLStream Cloud
+5）VLStream Cloud
 
-6) VLStream CMS (PC QT client, compatible with various operating systems)
+6）VLStream CMS (PC QT client, compatible with various operating systems)
 
-7) VLStream APP iOS
+7）VLStream APP iOS
 
-8) VLStream APP Android
+8）VLStream APP Android
 
-9) VLStream APP  Harmony OS
+9）VLStream APP  Harmony OS
 
 Scenario based deployment instance
 
